@@ -1,12 +1,12 @@
 
 # react-native-swiper
 Forked from leecade/react-native-swiper to remove these:
-
+```
   // componentWillReceiveProps (nextProps) {
   //   if (!nextProps.autoplay && this.autoplayTimer) clearTimeout(this.autoplayTimer)
   //   this.setState(this.initState(nextProps, this.props.index !== nextProps.index))
   // }
-  
+``` 
 ## Getting Started
 
 - [Installation](#installation)
